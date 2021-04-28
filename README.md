@@ -42,7 +42,7 @@ We split the codes of erda into multiple repositories according to different fun
 
 To start using Erda, please see our user documentation. Before using, you need to see the installation document to install erda.
 
-- [中文](https://dice-docs.app.terminus.io)
+- [中文](https://docs.erda.cloud/)
 - English
 
 ## Contributing
